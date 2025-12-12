@@ -35,7 +35,7 @@ LuminaSearch/
 >
 > **File:** `src/SearchServer.java`
 > ```java
-> private static final String PUBLIC_DIR = "d:/AntiGravity/LuminaSearch/public";
+> private static final String PUBLIC_DIR = "d:/project/LuminaSearch/public";
 > ```
 > Change this path to match the location of the `public` folder on your machine.
 
